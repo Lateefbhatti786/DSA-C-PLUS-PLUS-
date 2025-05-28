@@ -22,6 +22,7 @@ int main(){
     else {
         cout<< " NOT ELIGIBLE TO VOTE" <<endl;
     }
+cout<<"Thankyou , have a great day ahead"<<endl;    
 return 0;
 
 }
