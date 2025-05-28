@@ -1,0 +1,9 @@
+flowcharts 
+pseudocode 
+first program in c++
+variables 
+datatypes
+type casting 
+input in c++
+unary operators 
+
